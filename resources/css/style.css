@@ -20,6 +20,9 @@ p {
     color: gray;
 }
 
+footer {
+    text-align: right;
+}
 .downloadLink {
     color: aquamarine;
     font-size: 16px;
